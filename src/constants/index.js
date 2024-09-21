@@ -79,9 +79,27 @@ import {
   ];
   
   export const footerLinks = [
-    "Privacy Policy",
-    "Terms of Use",
-    "Sales Policy",
-    "Legal",
-    "Site Map",
+    { 
+      id : 0,
+      title : "GitHub",
+      Url : "#"
+    },
+
+    { 
+      id : 1,
+      title : "Privacy Policy",
+      Url : "#"
+    },
+
+    {
+      id: 1,
+      title : "Terms of Use",
+      Url : "#"
+    },
+
+    { 
+      id : 2,
+      title : "Sales Policy",
+      Url : "#"
+    },
   ];
